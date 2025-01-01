@@ -24,7 +24,14 @@ This project implements a **Timetable Scheduling System** for exam allocation us
 ## Technologies Used  
 - **Programming Language**: Python  
 - **Libraries**: NumPy, Collections, CSV, Colorama  
-- **Backend Logic**: Genetic Algorithm-based optimization  
+- **Backend Logic**: Genetic Algorithm-based optimization
+
+## Working Video
+
+
+https://github.com/user-attachments/assets/133e4fd3-517a-4165-9fa2-d247db1e1743
+
+
 
 ## Project Structure  
 ```plaintext
@@ -35,3 +42,5 @@ This project implements a **Timetable Scheduling System** for exam allocation us
 │   ├── t_studentcourses.csv # Student and their courses data  
 ├── README.md               # Project documentation  
 ├── requirements.txt        # Python dependencies  
+
+
